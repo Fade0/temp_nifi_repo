@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1782223450523,
+    "description" : "mgr bank flow",
+    "identifier" : "mgrbankflow",
+    "lastModifiedTimestamp" : 1782223450523,
+    "name" : "mgr_bank_flow",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
